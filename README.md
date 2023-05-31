@@ -1,1 +1,1 @@
-Capstone app react native app
+Capstone project react native app
